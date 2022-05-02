@@ -1,0 +1,3919 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html> 
+<head> 
+<meta http-equiv='Content-Type' content='applicaition/vnd.ms-excel; charset=utf-8'/>
+<title>HTML코드가 엑셀파일변환</title>
+</head> 
+<body>
+    <div id="contents">
+    
+					<div class="cont_L">
+						<div class="over">
+							<h1>국내 연도별 식품공급량</h1>
+							<p class="pad_le">
+								<strong>(단위: 천톤)</strong>
+							</p>
+						</div>
+						<table cellpadding="0" cellspacing="0" style="width: 1250px;" class="tb_cont">
+							<caption>국내 연도별 식품공급량 테이블입니다.</caption>
+							<colgroup>
+								<col style="width: 3%">
+								<col style="width: 5%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+								<col style="width: 3%">
+							</colgroup>
+							<thead>
+								<tr>
+									<th scope="col" style="text_align: center;" rowspan="1" colspan="1">부류별</th>
+									<th scope="col" colspan="1">품목별</th>
+									<th scope="col" colspan="1">2004</th>
+									<th scope="col" colspan="1">2005</th>
+									<th scope="col" colspan="1">2006</th>
+									<th scope="col" colspan="1">2007</th>
+									<th scope="col" colspan="1">2008</th>
+									<th scope="col" colspan="1">2009</th>
+									<th scope="col" colspan="1">2010</th>
+									<th scope="col" colspan="1">2011</th>
+									<th scope="col" colspan="1">2012</th>
+									<th scope="col" colspan="1">2013</th>
+									<th scope="col" colspan="1">2014</th>
+									<th scope="col" colspan="1">2015</th>
+									<th scope="col" colspan="1">2016</th>
+									<th scope="col" class="none">2017</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td style="text-align: center" rowspan="9">곡류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">7,382&nbsp;</td>
+									<td style="text-align: right">7,246&nbsp;</td>
+									<td style="text-align: right">7,303&nbsp;</td>
+									<td style="text-align: right">7,279&nbsp;</td>
+									<td style="text-align: right">7,061&nbsp;</td>
+									<td style="text-align: right">6,831&nbsp;</td>
+									<td style="text-align: right">7,169&nbsp;</td>
+									<td style="text-align: right">7,192&nbsp;</td>
+									<td style="text-align: right">7,343&nbsp;</td>
+									<td style="text-align: right">6,941&nbsp;</td>
+									<td style="text-align: right">6,877&nbsp;</td>
+									<td style="text-align: right">6,791&nbsp;</td>
+									<td style="text-align: right">6,802&nbsp;</td>
+									<td style="text-align: right" class="none">7,073&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">밀가루 &nbsp;</td>
+									<td style="text-align: right">1,612&nbsp;</td>
+									<td style="text-align: right">1,523&nbsp;</td>
+									<td style="text-align: right">1,565&nbsp;</td>
+									<td style="text-align: right">1,598&nbsp;</td>
+									<td style="text-align: right">1,546&nbsp;</td>
+									<td style="text-align: right">1,585&nbsp;</td>
+									<td style="text-align: right">1,647&nbsp;</td>
+									<td style="text-align: right">1,695&nbsp;</td>
+									<td style="text-align: right">1,706&nbsp;</td>
+									<td style="text-align: right">1,585&nbsp;</td>
+									<td style="text-align: right">1,612&nbsp;</td>
+									<td style="text-align: right">1,638&nbsp;</td>
+									<td style="text-align: right">1,630&nbsp;</td>
+									<td style="text-align: right" class="none">1,652&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">쌀 &nbsp;</td>
+									<td style="text-align: right">4,258&nbsp;</td>
+									<td style="text-align: right">4,007&nbsp;</td>
+									<td style="text-align: right">4,062&nbsp;</td>
+									<td style="text-align: right">4,011&nbsp;</td>
+									<td style="text-align: right">4,045&nbsp;</td>
+									<td style="text-align: right">3,961&nbsp;</td>
+									<td style="text-align: right">4,025&nbsp;</td>
+									<td style="text-align: right">4,011&nbsp;</td>
+									<td style="text-align: right">3,972&nbsp;</td>
+									<td style="text-align: right">3,905&nbsp;</td>
+									<td style="text-align: right">3,798&nbsp;</td>
+									<td style="text-align: right">3,658&nbsp;</td>
+									<td style="text-align: right">3,636&nbsp;</td>
+									<td style="text-align: right" class="none">3,691&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">보리쌀 &nbsp;</td>
+									<td style="text-align: right">71&nbsp;</td>
+									<td style="text-align: right">57&nbsp;</td>
+									<td style="text-align: right">59&nbsp;</td>
+									<td style="text-align: right">49&nbsp;</td>
+									<td style="text-align: right">54&nbsp;</td>
+									<td style="text-align: right">60&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">51&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">67&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right" class="none">68&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">옥수수 &nbsp;</td>
+									<td style="text-align: right">1,288&nbsp;</td>
+									<td style="text-align: right">1,522&nbsp;</td>
+									<td style="text-align: right">1,477&nbsp;</td>
+									<td style="text-align: right">1,496&nbsp;</td>
+									<td style="text-align: right">1,283&nbsp;</td>
+									<td style="text-align: right">1,102&nbsp;</td>
+									<td style="text-align: right">1,303&nbsp;</td>
+									<td style="text-align: right">1,275&nbsp;</td>
+									<td style="text-align: right">1,475&nbsp;</td>
+									<td style="text-align: right">1,261&nbsp;</td>
+									<td style="text-align: right">1,264&nbsp;</td>
+									<td style="text-align: right">1,264&nbsp;</td>
+									<td style="text-align: right">1,309&nbsp;</td>
+									<td style="text-align: right" class="none">1,476&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">수수 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right" class="none">-&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">조 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right" class="none">-&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">메밀 &nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right" class="none">3&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타 &nbsp;</td>
+									<td style="text-align: right">142&nbsp;</td>
+									<td style="text-align: right">126&nbsp;</td>
+									<td style="text-align: right">121&nbsp;</td>
+									<td style="text-align: right">105&nbsp;</td>
+									<td style="text-align: right">114&nbsp;</td>
+									<td style="text-align: right">114&nbsp;</td>
+									<td style="text-align: right">119&nbsp;</td>
+									<td style="text-align: right">141&nbsp;</td>
+									<td style="text-align: right">120&nbsp;</td>
+									<td style="text-align: right">134&nbsp;</td>
+									<td style="text-align: right">132&nbsp;</td>
+									<td style="text-align: right">160&nbsp;</td>
+									<td style="text-align: right">170&nbsp;</td>
+									<td style="text-align: right" class="none">182&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="3">서류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">600&nbsp;</td>
+									<td style="text-align: right">818&nbsp;</td>
+									<td style="text-align: right">698&nbsp;</td>
+									<td style="text-align: right">625&nbsp;</td>
+									<td style="text-align: right">682&nbsp;</td>
+									<td style="text-align: right">668&nbsp;</td>
+									<td style="text-align: right">684&nbsp;</td>
+									<td style="text-align: right">625&nbsp;</td>
+									<td style="text-align: right">587&nbsp;</td>
+									<td style="text-align: right">742&nbsp;</td>
+									<td style="text-align: right">631&nbsp;</td>
+									<td style="text-align: right">635&nbsp;</td>
+									<td style="text-align: right">608&nbsp;</td>
+									<td style="text-align: right" class="none">571&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">감자 &nbsp;</td>
+									<td style="text-align: right">423&nbsp;</td>
+									<td style="text-align: right">599&nbsp;</td>
+									<td style="text-align: right">507&nbsp;</td>
+									<td style="text-align: right">434&nbsp;</td>
+									<td style="text-align: right">438&nbsp;</td>
+									<td style="text-align: right">443&nbsp;</td>
+									<td style="text-align: right">441&nbsp;</td>
+									<td style="text-align: right">419&nbsp;</td>
+									<td style="text-align: right">418&nbsp;</td>
+									<td style="text-align: right">508&nbsp;</td>
+									<td style="text-align: right">403&nbsp;</td>
+									<td style="text-align: right">423&nbsp;</td>
+									<td style="text-align: right">418&nbsp;</td>
+									<td style="text-align: right" class="none">347&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">고구마 &nbsp;</td>
+									<td style="text-align: right">178&nbsp;</td>
+									<td style="text-align: right">219&nbsp;</td>
+									<td style="text-align: right">191&nbsp;</td>
+									<td style="text-align: right">191&nbsp;</td>
+									<td style="text-align: right">244&nbsp;</td>
+									<td style="text-align: right">226&nbsp;</td>
+									<td style="text-align: right">243&nbsp;</td>
+									<td style="text-align: right">206&nbsp;</td>
+									<td style="text-align: right">169&nbsp;</td>
+									<td style="text-align: right">234&nbsp;</td>
+									<td style="text-align: right">228&nbsp;</td>
+									<td style="text-align: right">212&nbsp;</td>
+									<td style="text-align: right">189&nbsp;</td>
+									<td style="text-align: right" class="none">224&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="3">설탕류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">1,017&nbsp;</td>
+									<td style="text-align: right">1,021&nbsp;</td>
+									<td style="text-align: right">1,023&nbsp;</td>
+									<td style="text-align: right">982&nbsp;</td>
+									<td style="text-align: right">1,152&nbsp;</td>
+									<td style="text-align: right">1,162&nbsp;</td>
+									<td style="text-align: right">1,123&nbsp;</td>
+									<td style="text-align: right">1,130&nbsp;</td>
+									<td style="text-align: right">1,119&nbsp;</td>
+									<td style="text-align: right">1,191&nbsp;</td>
+									<td style="text-align: right">1,198&nbsp;</td>
+									<td style="text-align: right">1,141&nbsp;</td>
+									<td style="text-align: right">1,153&nbsp;</td>
+									<td style="text-align: right" class="none">1,172&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">설탕 &nbsp;</td>
+									<td style="text-align: right">1,000&nbsp;</td>
+									<td style="text-align: right">1,002&nbsp;</td>
+									<td style="text-align: right">1,000&nbsp;</td>
+									<td style="text-align: right">955&nbsp;</td>
+									<td style="text-align: right">1,124&nbsp;</td>
+									<td style="text-align: right">1,139&nbsp;</td>
+									<td style="text-align: right">1,084&nbsp;</td>
+									<td style="text-align: right">1,097&nbsp;</td>
+									<td style="text-align: right">1,092&nbsp;</td>
+									<td style="text-align: right">1,166&nbsp;</td>
+									<td style="text-align: right">1,173&nbsp;</td>
+									<td style="text-align: right">1,117&nbsp;</td>
+									<td style="text-align: right">1,138&nbsp;</td>
+									<td style="text-align: right" class="none">1,156&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">꿀 &nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right" class="none">16&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="6">두류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">518&nbsp;</td>
+									<td style="text-align: right">551&nbsp;</td>
+									<td style="text-align: right">533&nbsp;</td>
+									<td style="text-align: right">519&nbsp;</td>
+									<td style="text-align: right">471&nbsp;</td>
+									<td style="text-align: right">476&nbsp;</td>
+									<td style="text-align: right">514&nbsp;</td>
+									<td style="text-align: right">493&nbsp;</td>
+									<td style="text-align: right">501&nbsp;</td>
+									<td style="text-align: right">494&nbsp;</td>
+									<td style="text-align: right">521&nbsp;</td>
+									<td style="text-align: right">517&nbsp;</td>
+									<td style="text-align: right">506&nbsp;</td>
+									<td style="text-align: right" class="none">438&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">콩 &nbsp;</td>
+									<td style="text-align: right">407&nbsp;</td>
+									<td style="text-align: right">441&nbsp;</td>
+									<td style="text-align: right">436&nbsp;</td>
+									<td style="text-align: right">421&nbsp;</td>
+									<td style="text-align: right">374&nbsp;</td>
+									<td style="text-align: right">380&nbsp;</td>
+									<td style="text-align: right">417&nbsp;</td>
+									<td style="text-align: right">394&nbsp;</td>
+									<td style="text-align: right">408&nbsp;</td>
+									<td style="text-align: right">403&nbsp;</td>
+									<td style="text-align: right">417&nbsp;</td>
+									<td style="text-align: right">422&nbsp;</td>
+									<td style="text-align: right">413&nbsp;</td>
+									<td style="text-align: right" class="none">336&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">팥 &nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right" class="none">26&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">녹두 &nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right" class="none">8&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">땅콩 &nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">32&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">32&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right" class="none">37&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타 &nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right" class="none">31&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="10">견과류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">58&nbsp;</td>
+									<td style="text-align: right">61&nbsp;</td>
+									<td style="text-align: right">70&nbsp;</td>
+									<td style="text-align: right">71&nbsp;</td>
+									<td style="text-align: right">67&nbsp;</td>
+									<td style="text-align: right">75&nbsp;</td>
+									<td style="text-align: right">74&nbsp;</td>
+									<td style="text-align: right">76&nbsp;</td>
+									<td style="text-align: right">88&nbsp;</td>
+									<td style="text-align: right">91&nbsp;</td>
+									<td style="text-align: right">99&nbsp;</td>
+									<td style="text-align: right">89&nbsp;</td>
+									<td style="text-align: right">97&nbsp;</td>
+									<td style="text-align: right" class="none">88&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">밤 &nbsp;</td>
+									<td style="text-align: right">43&nbsp;</td>
+									<td style="text-align: right">46&nbsp;</td>
+									<td style="text-align: right">54&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right">50&nbsp;</td>
+									<td style="text-align: right">49&nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">43&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right" class="none">34&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">호두 &nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right" class="none">14&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">잣 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right" class="none">4&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">도토리 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right" class="none">6&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">은행 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right" class="none">2&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">아몬드 &nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right" class="none">25&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">피스타치오 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">너트류 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right" class="none">3&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타견과류 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="3">종실류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">46&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">43&nbsp;</td>
+									<td style="text-align: right">48&nbsp;</td>
+									<td style="text-align: right" class="none">47&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">참깨 &nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right" class="none">17&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타 &nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right" class="none">30&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="34">채소류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">7,539&nbsp;</td>
+									<td style="text-align: right">7,005&nbsp;</td>
+									<td style="text-align: right">7,428&nbsp;</td>
+									<td style="text-align: right">7,263&nbsp;</td>
+									<td style="text-align: right">7,495&nbsp;</td>
+									<td style="text-align: right">7,321&nbsp;</td>
+									<td style="text-align: right">6,530&nbsp;</td>
+									<td style="text-align: right">7,694&nbsp;</td>
+									<td style="text-align: right">6,962&nbsp;</td>
+									<td style="text-align: right">7,340&nbsp;</td>
+									<td style="text-align: right">7,797&nbsp;</td>
+									<td style="text-align: right">7,282&nbsp;</td>
+									<td style="text-align: right">6,844&nbsp;</td>
+									<td style="text-align: right" class="none">7,318&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">무 &nbsp;</td>
+									<td style="text-align: right">1,110&nbsp;</td>
+									<td style="text-align: right">831&nbsp;</td>
+									<td style="text-align: right">972&nbsp;</td>
+									<td style="text-align: right">777&nbsp;</td>
+									<td style="text-align: right">915&nbsp;</td>
+									<td style="text-align: right">819&nbsp;</td>
+									<td style="text-align: right">682&nbsp;</td>
+									<td style="text-align: right">815&nbsp;</td>
+									<td style="text-align: right">749&nbsp;</td>
+									<td style="text-align: right">849&nbsp;</td>
+									<td style="text-align: right">844&nbsp;</td>
+									<td style="text-align: right">810&nbsp;</td>
+									<td style="text-align: right">659&nbsp;</td>
+									<td style="text-align: right" class="none">752&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">배추 &nbsp;</td>
+									<td style="text-align: right">1,731&nbsp;</td>
+									<td style="text-align: right">1,459&nbsp;</td>
+									<td style="text-align: right">1,805&nbsp;</td>
+									<td style="text-align: right">1,549&nbsp;</td>
+									<td style="text-align: right">1,767&nbsp;</td>
+									<td style="text-align: right">1,645&nbsp;</td>
+									<td style="text-align: right">1,260&nbsp;</td>
+									<td style="text-align: right">1,947&nbsp;</td>
+									<td style="text-align: right">1,596&nbsp;</td>
+									<td style="text-align: right">1,749&nbsp;</td>
+									<td style="text-align: right">1,832&nbsp;</td>
+									<td style="text-align: right">1,547&nbsp;</td>
+									<td style="text-align: right">1,414&nbsp;</td>
+									<td style="text-align: right" class="none">1,817&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">양배추 &nbsp;</td>
+									<td style="text-align: right">201&nbsp;</td>
+									<td style="text-align: right">199&nbsp;</td>
+									<td style="text-align: right">227&nbsp;</td>
+									<td style="text-align: right">240&nbsp;</td>
+									<td style="text-align: right">226&nbsp;</td>
+									<td style="text-align: right">229&nbsp;</td>
+									<td style="text-align: right">193&nbsp;</td>
+									<td style="text-align: right">255&nbsp;</td>
+									<td style="text-align: right">209&nbsp;</td>
+									<td style="text-align: right">221&nbsp;</td>
+									<td style="text-align: right">241&nbsp;</td>
+									<td style="text-align: right">230&nbsp;</td>
+									<td style="text-align: right">249&nbsp;</td>
+									<td style="text-align: right" class="none">247&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">파 &nbsp;</td>
+									<td style="text-align: right">492&nbsp;</td>
+									<td style="text-align: right">362&nbsp;</td>
+									<td style="text-align: right">389&nbsp;</td>
+									<td style="text-align: right">346&nbsp;</td>
+									<td style="text-align: right">356&nbsp;</td>
+									<td style="text-align: right">314&nbsp;</td>
+									<td style="text-align: right">296&nbsp;</td>
+									<td style="text-align: right">360&nbsp;</td>
+									<td style="text-align: right">261&nbsp;</td>
+									<td style="text-align: right">317&nbsp;</td>
+									<td style="text-align: right">333&nbsp;</td>
+									<td style="text-align: right">273&nbsp;</td>
+									<td style="text-align: right">279&nbsp;</td>
+									<td style="text-align: right" class="none">333&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">생강 &nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right" class="none">20&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">양파 &nbsp;</td>
+									<td style="text-align: right">766&nbsp;</td>
+									<td style="text-align: right">822&nbsp;</td>
+									<td style="text-align: right">725&nbsp;</td>
+									<td style="text-align: right">972&nbsp;</td>
+									<td style="text-align: right">827&nbsp;</td>
+									<td style="text-align: right">1,077&nbsp;</td>
+									<td style="text-align: right">1,107&nbsp;</td>
+									<td style="text-align: right">1,186&nbsp;</td>
+									<td style="text-align: right">959&nbsp;</td>
+									<td style="text-align: right">1,053&nbsp;</td>
+									<td style="text-align: right">1,171&nbsp;</td>
+									<td style="text-align: right">1,100&nbsp;</td>
+									<td style="text-align: right">1,113&nbsp;</td>
+									<td style="text-align: right" class="none">1,078&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">마늘 &nbsp;</td>
+									<td style="text-align: right">307&nbsp;</td>
+									<td style="text-align: right">300&nbsp;</td>
+									<td style="text-align: right">275&nbsp;</td>
+									<td style="text-align: right">297&nbsp;</td>
+									<td style="text-align: right">317&nbsp;</td>
+									<td style="text-align: right">287&nbsp;</td>
+									<td style="text-align: right">242&nbsp;</td>
+									<td style="text-align: right">272&nbsp;</td>
+									<td style="text-align: right">301&nbsp;</td>
+									<td style="text-align: right">337&nbsp;</td>
+									<td style="text-align: right">307&nbsp;</td>
+									<td style="text-align: right">264&nbsp;</td>
+									<td style="text-align: right">261&nbsp;</td>
+									<td style="text-align: right" class="none">256&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">오이 &nbsp;</td>
+									<td style="text-align: right">328&nbsp;</td>
+									<td style="text-align: right">325&nbsp;</td>
+									<td style="text-align: right">316&nbsp;</td>
+									<td style="text-align: right">270&nbsp;</td>
+									<td style="text-align: right">311&nbsp;</td>
+									<td style="text-align: right">286&nbsp;</td>
+									<td style="text-align: right">252&nbsp;</td>
+									<td style="text-align: right">254&nbsp;</td>
+									<td style="text-align: right">242&nbsp;</td>
+									<td style="text-align: right">216&nbsp;</td>
+									<td style="text-align: right">237&nbsp;</td>
+									<td style="text-align: right">236&nbsp;</td>
+									<td style="text-align: right">286&nbsp;</td>
+									<td style="text-align: right" class="none">292&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">호박 &nbsp;</td>
+									<td style="text-align: right">247&nbsp;</td>
+									<td style="text-align: right">276&nbsp;</td>
+									<td style="text-align: right">266&nbsp;</td>
+									<td style="text-align: right">277&nbsp;</td>
+									<td style="text-align: right">272&nbsp;</td>
+									<td style="text-align: right">283&nbsp;</td>
+									<td style="text-align: right">252&nbsp;</td>
+									<td style="text-align: right">254&nbsp;</td>
+									<td style="text-align: right">277&nbsp;</td>
+									<td style="text-align: right">275&nbsp;</td>
+									<td style="text-align: right">289&nbsp;</td>
+									<td style="text-align: right">316&nbsp;</td>
+									<td style="text-align: right">261&nbsp;</td>
+									<td style="text-align: right" class="none">275&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">시금치 &nbsp;</td>
+									<td style="text-align: right">82&nbsp;</td>
+									<td style="text-align: right">75&nbsp;</td>
+									<td style="text-align: right">72&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right">64&nbsp;</td>
+									<td style="text-align: right">72&nbsp;</td>
+									<td style="text-align: right">61&nbsp;</td>
+									<td style="text-align: right">76&nbsp;</td>
+									<td style="text-align: right">70&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">61&nbsp;</td>
+									<td style="text-align: right">70&nbsp;</td>
+									<td style="text-align: right">58&nbsp;</td>
+									<td style="text-align: right" class="none">51&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">토마토 &nbsp;</td>
+									<td style="text-align: right">345&nbsp;</td>
+									<td style="text-align: right">381&nbsp;</td>
+									<td style="text-align: right">380&nbsp;</td>
+									<td style="text-align: right">420&nbsp;</td>
+									<td style="text-align: right">361&nbsp;</td>
+									<td style="text-align: right">339&nbsp;</td>
+									<td style="text-align: right">296&nbsp;</td>
+									<td style="text-align: right">332&nbsp;</td>
+									<td style="text-align: right">385&nbsp;</td>
+									<td style="text-align: right">350&nbsp;</td>
+									<td style="text-align: right">443&nbsp;</td>
+									<td style="text-align: right">405&nbsp;</td>
+									<td style="text-align: right">352&nbsp;</td>
+									<td style="text-align: right" class="none">329&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">건고추 &nbsp;</td>
+									<td style="text-align: right">102&nbsp;</td>
+									<td style="text-align: right">104&nbsp;</td>
+									<td style="text-align: right">81&nbsp;</td>
+									<td style="text-align: right">105&nbsp;</td>
+									<td style="text-align: right">83&nbsp;</td>
+									<td style="text-align: right">82&nbsp;</td>
+									<td style="text-align: right">69&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">78&nbsp;</td>
+									<td style="text-align: right">81&nbsp;</td>
+									<td style="text-align: right">145&nbsp;</td>
+									<td style="text-align: right">114&nbsp;</td>
+									<td style="text-align: right">106&nbsp;</td>
+									<td style="text-align: right" class="none">87&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">당근 &nbsp;</td>
+									<td style="text-align: right">107&nbsp;</td>
+									<td style="text-align: right">141&nbsp;</td>
+									<td style="text-align: right">156&nbsp;</td>
+									<td style="text-align: right">125&nbsp;</td>
+									<td style="text-align: right">134&nbsp;</td>
+									<td style="text-align: right">132&nbsp;</td>
+									<td style="text-align: right">137&nbsp;</td>
+									<td style="text-align: right">138&nbsp;</td>
+									<td style="text-align: right">116&nbsp;</td>
+									<td style="text-align: right">137&nbsp;</td>
+									<td style="text-align: right">133&nbsp;</td>
+									<td style="text-align: right">170&nbsp;</td>
+									<td style="text-align: right">142&nbsp;</td>
+									<td style="text-align: right" class="none">144&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">상추 &nbsp;</td>
+									<td style="text-align: right">164&nbsp;</td>
+									<td style="text-align: right">134&nbsp;</td>
+									<td style="text-align: right">130&nbsp;</td>
+									<td style="text-align: right">126&nbsp;</td>
+									<td style="text-align: right">111&nbsp;</td>
+									<td style="text-align: right">117&nbsp;</td>
+									<td style="text-align: right">117&nbsp;</td>
+									<td style="text-align: right">96&nbsp;</td>
+									<td style="text-align: right">95&nbsp;</td>
+									<td style="text-align: right">81&nbsp;</td>
+									<td style="text-align: right">89&nbsp;</td>
+									<td style="text-align: right">83&nbsp;</td>
+									<td style="text-align: right">72&nbsp;</td>
+									<td style="text-align: right" class="none">74&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">수박 &nbsp;</td>
+									<td style="text-align: right">441&nbsp;</td>
+									<td style="text-align: right">484&nbsp;</td>
+									<td style="text-align: right">417&nbsp;</td>
+									<td style="text-align: right">397&nbsp;</td>
+									<td style="text-align: right">459&nbsp;</td>
+									<td style="text-align: right">453&nbsp;</td>
+									<td style="text-align: right">363&nbsp;</td>
+									<td style="text-align: right">357&nbsp;</td>
+									<td style="text-align: right">377&nbsp;</td>
+									<td style="text-align: right">395&nbsp;</td>
+									<td style="text-align: right">403&nbsp;</td>
+									<td style="text-align: right">388&nbsp;</td>
+									<td style="text-align: right">349&nbsp;</td>
+									<td style="text-align: right" class="none">310&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">참외 &nbsp;</td>
+									<td style="text-align: right">156&nbsp;</td>
+									<td style="text-align: right">128&nbsp;</td>
+									<td style="text-align: right">141&nbsp;</td>
+									<td style="text-align: right">131&nbsp;</td>
+									<td style="text-align: right">141&nbsp;</td>
+									<td style="text-align: right">146&nbsp;</td>
+									<td style="text-align: right">133&nbsp;</td>
+									<td style="text-align: right">115&nbsp;</td>
+									<td style="text-align: right">119&nbsp;</td>
+									<td style="text-align: right">113&nbsp;</td>
+									<td style="text-align: right">101&nbsp;</td>
+									<td style="text-align: right">116&nbsp;</td>
+									<td style="text-align: right">113&nbsp;</td>
+									<td style="text-align: right" class="none">120&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">송이버섯 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">표고버섯 &nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right" class="none">20&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">양송이 &nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right" class="none">17&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">느타리버섯 &nbsp;</td>
+									<td style="text-align: right">51&nbsp;</td>
+									<td style="text-align: right">55&nbsp;</td>
+									<td style="text-align: right">45&nbsp;</td>
+									<td style="text-align: right">45&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">41&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">47&nbsp;</td>
+									<td style="text-align: right">60&nbsp;</td>
+									<td style="text-align: right">70&nbsp;</td>
+									<td style="text-align: right">55&nbsp;</td>
+									<td style="text-align: right">51&nbsp;</td>
+									<td style="text-align: right" class="none">46&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">팽이버섯 &nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right" class="none">15&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타버섯 &nbsp;</td>
+									<td style="text-align: right">48&nbsp;</td>
+									<td style="text-align: right">46&nbsp;</td>
+									<td style="text-align: right">50&nbsp;</td>
+									<td style="text-align: right">58&nbsp;</td>
+									<td style="text-align: right">55&nbsp;</td>
+									<td style="text-align: right">49&nbsp;</td>
+									<td style="text-align: right">59&nbsp;</td>
+									<td style="text-align: right">69&nbsp;</td>
+									<td style="text-align: right">70&nbsp;</td>
+									<td style="text-align: right">406&nbsp;</td>
+									<td style="text-align: right">84&nbsp;</td>
+									<td style="text-align: right">96&nbsp;</td>
+									<td style="text-align: right">99&nbsp;</td>
+									<td style="text-align: right" class="none">100&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">산나물 &nbsp;</td>
+									<td style="text-align: right">64&nbsp;</td>
+									<td style="text-align: right">68&nbsp;</td>
+									<td style="text-align: right">77&nbsp;</td>
+									<td style="text-align: right">76&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">72&nbsp;</td>
+									<td style="text-align: right">70&nbsp;</td>
+									<td style="text-align: right">55&nbsp;</td>
+									<td style="text-align: right">49&nbsp;</td>
+									<td style="text-align: right">51&nbsp;</td>
+									<td style="text-align: right">54&nbsp;</td>
+									<td style="text-align: right">54&nbsp;</td>
+									<td style="text-align: right" class="none">56&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">딸기 &nbsp;</td>
+									<td style="text-align: right">157&nbsp;</td>
+									<td style="text-align: right">157&nbsp;</td>
+									<td style="text-align: right">160&nbsp;</td>
+									<td style="text-align: right">160&nbsp;</td>
+									<td style="text-align: right">152&nbsp;</td>
+									<td style="text-align: right">157&nbsp;</td>
+									<td style="text-align: right">180&nbsp;</td>
+									<td style="text-align: right">137&nbsp;</td>
+									<td style="text-align: right">153&nbsp;</td>
+									<td style="text-align: right">171&nbsp;</td>
+									<td style="text-align: right">164&nbsp;</td>
+									<td style="text-align: right">156&nbsp;</td>
+									<td style="text-align: right">154&nbsp;</td>
+									<td style="text-align: right" class="none">167&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타채소 &nbsp;</td>
+									<td style="text-align: right">222&nbsp;</td>
+									<td style="text-align: right">232&nbsp;</td>
+									<td style="text-align: right">330&nbsp;</td>
+									<td style="text-align: right">406&nbsp;</td>
+									<td style="text-align: right">400&nbsp;</td>
+									<td style="text-align: right">340&nbsp;</td>
+									<td style="text-align: right">349&nbsp;</td>
+									<td style="text-align: right">491&nbsp;</td>
+									<td style="text-align: right">416&nbsp;</td>
+									<td style="text-align: right">68&nbsp;</td>
+									<td style="text-align: right">424&nbsp;</td>
+									<td style="text-align: right">402&nbsp;</td>
+									<td style="text-align: right">374&nbsp;</td>
+									<td style="text-align: right" class="none">410&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">미나리 &nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">43&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right" class="none">23&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">가지 &nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right" class="none">28&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">쑥갓 &nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right" class="none">5&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">풋고추 &nbsp;</td>
+									<td style="text-align: right">188&nbsp;</td>
+									<td style="text-align: right">178&nbsp;</td>
+									<td style="text-align: right">181&nbsp;</td>
+									<td style="text-align: right">194&nbsp;</td>
+									<td style="text-align: right">201&nbsp;</td>
+									<td style="text-align: right">179&nbsp;</td>
+									<td style="text-align: right">157&nbsp;</td>
+									<td style="text-align: right">142&nbsp;</td>
+									<td style="text-align: right">152&nbsp;</td>
+									<td style="text-align: right">139&nbsp;</td>
+									<td style="text-align: right">142&nbsp;</td>
+									<td style="text-align: right">132&nbsp;</td>
+									<td style="text-align: right">128&nbsp;</td>
+									<td style="text-align: right" class="none">140&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">멜론 &nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right" class="none">19&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">샐러리 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">양상추 &nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right" class="none">22&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">피망 &nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">48&nbsp;</td>
+									<td style="text-align: right" class="none">47&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="15">과실류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">2,002&nbsp;</td>
+									<td style="text-align: right">2,154&nbsp;</td>
+									<td style="text-align: right">2,021&nbsp;</td>
+									<td style="text-align: right">2,181&nbsp;</td>
+									<td style="text-align: right">2,281&nbsp;</td>
+									<td style="text-align: right">2,378&nbsp;</td>
+									<td style="text-align: right">2,183&nbsp;</td>
+									<td style="text-align: right">2,324&nbsp;</td>
+									<td style="text-align: right">2,311&nbsp;</td>
+									<td style="text-align: right">2,386&nbsp;</td>
+									<td style="text-align: right">2,528&nbsp;</td>
+									<td style="text-align: right">2,476&nbsp;</td>
+									<td style="text-align: right">2,198&nbsp;</td>
+									<td style="text-align: right" class="none">2,205&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">사과 &nbsp;</td>
+									<td style="text-align: right">262&nbsp;</td>
+									<td style="text-align: right">270&nbsp;</td>
+									<td style="text-align: right">279&nbsp;</td>
+									<td style="text-align: right">302&nbsp;</td>
+									<td style="text-align: right">345&nbsp;</td>
+									<td style="text-align: right">359&nbsp;</td>
+									<td style="text-align: right">335&nbsp;</td>
+									<td style="text-align: right">294&nbsp;</td>
+									<td style="text-align: right">307&nbsp;</td>
+									<td style="text-align: right">383&nbsp;</td>
+									<td style="text-align: right">369&nbsp;</td>
+									<td style="text-align: right">444&nbsp;</td>
+									<td style="text-align: right">441&nbsp;</td>
+									<td style="text-align: right" class="none">418&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">배 &nbsp;</td>
+									<td style="text-align: right">324&nbsp;</td>
+									<td style="text-align: right">311&nbsp;</td>
+									<td style="text-align: right">302&nbsp;</td>
+									<td style="text-align: right">330&nbsp;</td>
+									<td style="text-align: right">333&nbsp;</td>
+									<td style="text-align: right">291&nbsp;</td>
+									<td style="text-align: right">212&nbsp;</td>
+									<td style="text-align: right">203&nbsp;</td>
+									<td style="text-align: right">117&nbsp;</td>
+									<td style="text-align: right">195&nbsp;</td>
+									<td style="text-align: right">209&nbsp;</td>
+									<td style="text-align: right">178&nbsp;</td>
+									<td style="text-align: right">159&nbsp;</td>
+									<td style="text-align: right" class="none">178&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">단감 &nbsp;</td>
+									<td style="text-align: right">136&nbsp;</td>
+									<td style="text-align: right">165&nbsp;</td>
+									<td style="text-align: right">144&nbsp;</td>
+									<td style="text-align: right">144&nbsp;</td>
+									<td style="text-align: right">148&nbsp;</td>
+									<td style="text-align: right">131&nbsp;</td>
+									<td style="text-align: right">124&nbsp;</td>
+									<td style="text-align: right">148&nbsp;</td>
+									<td style="text-align: right">149&nbsp;</td>
+									<td style="text-align: right">138&nbsp;</td>
+									<td style="text-align: right">166&nbsp;</td>
+									<td style="text-align: right">126&nbsp;</td>
+									<td style="text-align: right">90&nbsp;</td>
+									<td style="text-align: right" class="none">82&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">포도 &nbsp;</td>
+									<td style="text-align: right">247&nbsp;</td>
+									<td style="text-align: right">258&nbsp;</td>
+									<td style="text-align: right">219&nbsp;</td>
+									<td style="text-align: right">230&nbsp;</td>
+									<td style="text-align: right">240&nbsp;</td>
+									<td style="text-align: right">237&nbsp;</td>
+									<td style="text-align: right">223&nbsp;</td>
+									<td style="text-align: right">197&nbsp;</td>
+									<td style="text-align: right">208&nbsp;</td>
+									<td style="text-align: right">200&nbsp;</td>
+									<td style="text-align: right">205&nbsp;</td>
+									<td style="text-align: right">204&nbsp;</td>
+									<td style="text-align: right">174&nbsp;</td>
+									<td style="text-align: right" class="none">151&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">복숭아 &nbsp;</td>
+									<td style="text-align: right">154&nbsp;</td>
+									<td style="text-align: right">172&nbsp;</td>
+									<td style="text-align: right">143&nbsp;</td>
+									<td style="text-align: right">134&nbsp;</td>
+									<td style="text-align: right">145&nbsp;</td>
+									<td style="text-align: right">152&nbsp;</td>
+									<td style="text-align: right">106&nbsp;</td>
+									<td style="text-align: right">162&nbsp;</td>
+									<td style="text-align: right">177&nbsp;</td>
+									<td style="text-align: right">169&nbsp;</td>
+									<td style="text-align: right">184&nbsp;</td>
+									<td style="text-align: right">176&nbsp;</td>
+									<td style="text-align: right">154&nbsp;</td>
+									<td style="text-align: right" class="none">165&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">귤 &nbsp;</td>
+									<td style="text-align: right">424&nbsp;</td>
+									<td style="text-align: right">467&nbsp;</td>
+									<td style="text-align: right">373&nbsp;</td>
+									<td style="text-align: right">468&nbsp;</td>
+									<td style="text-align: right">466&nbsp;</td>
+									<td style="text-align: right">552&nbsp;</td>
+									<td style="text-align: right">451&nbsp;</td>
+									<td style="text-align: right">499&nbsp;</td>
+									<td style="text-align: right">507&nbsp;</td>
+									<td style="text-align: right">500&nbsp;</td>
+									<td style="text-align: right">529&nbsp;</td>
+									<td style="text-align: right">491&nbsp;</td>
+									<td style="text-align: right">446&nbsp;</td>
+									<td style="text-align: right" class="none">437&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타 &nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">134&nbsp;</td>
+									<td style="text-align: right">173&nbsp;</td>
+									<td style="text-align: right">200&nbsp;</td>
+									<td style="text-align: right">228&nbsp;</td>
+									<td style="text-align: right">308&nbsp;</td>
+									<td style="text-align: right">305&nbsp;</td>
+									<td style="text-align: right">338&nbsp;</td>
+									<td style="text-align: right">339&nbsp;</td>
+									<td style="text-align: right">338&nbsp;</td>
+									<td style="text-align: right">163&nbsp;</td>
+									<td style="text-align: right">465&nbsp;</td>
+									<td style="text-align: right">313&nbsp;</td>
+									<td style="text-align: right" class="none">340&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">유자 &nbsp;</td>
+									<td style="text-align: right">59&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right" class="none">6&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">자두 &nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">62&nbsp;</td>
+									<td style="text-align: right">53&nbsp;</td>
+									<td style="text-align: right">53&nbsp;</td>
+									<td style="text-align: right">55&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right">47&nbsp;</td>
+									<td style="text-align: right">47&nbsp;</td>
+									<td style="text-align: right">46&nbsp;</td>
+									<td style="text-align: right">48&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right" class="none">51&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">참다래 &nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">32&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">41&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">45&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">46&nbsp;</td>
+									<td style="text-align: right" class="none">45&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">바나나 &nbsp;</td>
+									<td style="text-align: right">121&nbsp;</td>
+									<td style="text-align: right">146&nbsp;</td>
+									<td style="text-align: right">161&nbsp;</td>
+									<td style="text-align: right">178&nbsp;</td>
+									<td style="text-align: right">149&nbsp;</td>
+									<td style="text-align: right">148&nbsp;</td>
+									<td style="text-align: right">195&nbsp;</td>
+									<td style="text-align: right">190&nbsp;</td>
+									<td style="text-align: right">199&nbsp;</td>
+									<td style="text-align: right">169&nbsp;</td>
+									<td style="text-align: right">194&nbsp;</td>
+									<td style="text-align: right">131&nbsp;</td>
+									<td style="text-align: right">131&nbsp;</td>
+									<td style="text-align: right" class="none">158&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">파인애플 &nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">32&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">66&nbsp;</td>
+									<td style="text-align: right">68&nbsp;</td>
+									<td style="text-align: right">68&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right" class="none">38&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">오렌지 &nbsp;</td>
+									<td style="text-align: right">101&nbsp;</td>
+									<td style="text-align: right">81&nbsp;</td>
+									<td style="text-align: right">82&nbsp;</td>
+									<td style="text-align: right">51&nbsp;</td>
+									<td style="text-align: right">71&nbsp;</td>
+									<td style="text-align: right">47&nbsp;</td>
+									<td style="text-align: right">72&nbsp;</td>
+									<td style="text-align: right">93&nbsp;</td>
+									<td style="text-align: right">114&nbsp;</td>
+									<td style="text-align: right">100&nbsp;</td>
+									<td style="text-align: right">65&nbsp;</td>
+									<td style="text-align: right">78&nbsp;</td>
+									<td style="text-align: right">102&nbsp;</td>
+									<td style="text-align: right" class="none">93&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">자몽 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right" class="none">17&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="5">육류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">1,774&nbsp;</td>
+									<td style="text-align: right">1,762&nbsp;</td>
+									<td style="text-align: right">1,856&nbsp;</td>
+									<td style="text-align: right">1,980&nbsp;</td>
+									<td style="text-align: right">1,976&nbsp;</td>
+									<td style="text-align: right">2,110&nbsp;</td>
+									<td style="text-align: right">2,151&nbsp;</td>
+									<td style="text-align: right">2,212&nbsp;</td>
+									<td style="text-align: right">2,299&nbsp;</td>
+									<td style="text-align: right">2,470&nbsp;</td>
+									<td style="text-align: right">2,613&nbsp;</td>
+									<td style="text-align: right">2,730&nbsp;</td>
+									<td style="text-align: right">2,871&nbsp;</td>
+									<td style="text-align: right" class="none">2,910&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">쇠고기 &nbsp;</td>
+									<td style="text-align: right">317&nbsp;</td>
+									<td style="text-align: right">306&nbsp;</td>
+									<td style="text-align: right">320&nbsp;</td>
+									<td style="text-align: right">357&nbsp;</td>
+									<td style="text-align: right">353&nbsp;</td>
+									<td style="text-align: right">453&nbsp;</td>
+									<td style="text-align: right">417&nbsp;</td>
+									<td style="text-align: right">489&nbsp;</td>
+									<td style="text-align: right">469&nbsp;</td>
+									<td style="text-align: right">501&nbsp;</td>
+									<td style="text-align: right">524&nbsp;</td>
+									<td style="text-align: right">535&nbsp;</td>
+									<td style="text-align: right">574&nbsp;</td>
+									<td style="text-align: right" class="none">563&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">돼지고기 &nbsp;</td>
+									<td style="text-align: right">831&nbsp;</td>
+									<td style="text-align: right">813&nbsp;</td>
+									<td style="text-align: right">848&nbsp;</td>
+									<td style="text-align: right">903&nbsp;</td>
+									<td style="text-align: right">899&nbsp;</td>
+									<td style="text-align: right">888&nbsp;</td>
+									<td style="text-align: right">912&nbsp;</td>
+									<td style="text-align: right">919&nbsp;</td>
+									<td style="text-align: right">940&nbsp;</td>
+									<td style="text-align: right">1,027&nbsp;</td>
+									<td style="text-align: right">1,098&nbsp;</td>
+									<td style="text-align: right">1,143&nbsp;</td>
+									<td style="text-align: right">1,215&nbsp;</td>
+									<td style="text-align: right" class="none">1,294&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">닭고기 &nbsp;</td>
+									<td style="text-align: right">249&nbsp;</td>
+									<td style="text-align: right">279&nbsp;</td>
+									<td style="text-align: right">326&nbsp;</td>
+									<td style="text-align: right">339&nbsp;</td>
+									<td style="text-align: right">341&nbsp;</td>
+									<td style="text-align: right">366&nbsp;</td>
+									<td style="text-align: right">408&nbsp;</td>
+									<td style="text-align: right">442&nbsp;</td>
+									<td style="text-align: right">453&nbsp;</td>
+									<td style="text-align: right">453&nbsp;</td>
+									<td style="text-align: right">505&nbsp;</td>
+									<td style="text-align: right">546&nbsp;</td>
+									<td style="text-align: right">569&nbsp;</td>
+									<td style="text-align: right" class="none">534&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">부산물 &nbsp;</td>
+									<td style="text-align: right">377&nbsp;</td>
+									<td style="text-align: right">364&nbsp;</td>
+									<td style="text-align: right">362&nbsp;</td>
+									<td style="text-align: right">381&nbsp;</td>
+									<td style="text-align: right">384&nbsp;</td>
+									<td style="text-align: right">402&nbsp;</td>
+									<td style="text-align: right">414&nbsp;</td>
+									<td style="text-align: right">362&nbsp;</td>
+									<td style="text-align: right">437&nbsp;</td>
+									<td style="text-align: right">489&nbsp;</td>
+									<td style="text-align: right">485&nbsp;</td>
+									<td style="text-align: right">506&nbsp;</td>
+									<td style="text-align: right">513&nbsp;</td>
+									<td style="text-align: right" class="none">518&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="2">계란류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">428&nbsp;</td>
+									<td style="text-align: right">437&nbsp;</td>
+									<td style="text-align: right">456&nbsp;</td>
+									<td style="text-align: right">461&nbsp;</td>
+									<td style="text-align: right">458&nbsp;</td>
+									<td style="text-align: right">489&nbsp;</td>
+									<td style="text-align: right">488&nbsp;</td>
+									<td style="text-align: right">491&nbsp;</td>
+									<td style="text-align: right">517&nbsp;</td>
+									<td style="text-align: right">517&nbsp;</td>
+									<td style="text-align: right">563&nbsp;</td>
+									<td style="text-align: right">556&nbsp;</td>
+									<td style="text-align: right">592&nbsp;</td>
+									<td style="text-align: right" class="none">494&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">달걀 &nbsp;</td>
+									<td style="text-align: right">428&nbsp;</td>
+									<td style="text-align: right">437&nbsp;</td>
+									<td style="text-align: right">456&nbsp;</td>
+									<td style="text-align: right">461&nbsp;</td>
+									<td style="text-align: right">458&nbsp;</td>
+									<td style="text-align: right">489&nbsp;</td>
+									<td style="text-align: right">488&nbsp;</td>
+									<td style="text-align: right">491&nbsp;</td>
+									<td style="text-align: right">517&nbsp;</td>
+									<td style="text-align: right">517&nbsp;</td>
+									<td style="text-align: right">563&nbsp;</td>
+									<td style="text-align: right">556&nbsp;</td>
+									<td style="text-align: right">592&nbsp;</td>
+									<td style="text-align: right" class="none">494&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="6">우유류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">2,588&nbsp;</td>
+									<td style="text-align: right">2,598&nbsp;</td>
+									<td style="text-align: right">2,603&nbsp;</td>
+									<td style="text-align: right">2,675&nbsp;</td>
+									<td style="text-align: right">2,565&nbsp;</td>
+									<td style="text-align: right">2,589&nbsp;</td>
+									<td style="text-align: right">2,816&nbsp;</td>
+									<td style="text-align: right">2,951&nbsp;</td>
+									<td style="text-align: right">2,745&nbsp;</td>
+									<td style="text-align: right">3,084&nbsp;</td>
+									<td style="text-align: right">3,131&nbsp;</td>
+									<td style="text-align: right">3,246&nbsp;</td>
+									<td style="text-align: right">3,292&nbsp;</td>
+									<td style="text-align: right" class="none">3,525&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">우유류 &nbsp;</td>
+									<td style="text-align: right">2,529&nbsp;</td>
+									<td style="text-align: right">2,546&nbsp;</td>
+									<td style="text-align: right">2,550&nbsp;</td>
+									<td style="text-align: right">2,630&nbsp;</td>
+									<td style="text-align: right">2,516&nbsp;</td>
+									<td style="text-align: right">2,549&nbsp;</td>
+									<td style="text-align: right">2,774&nbsp;</td>
+									<td style="text-align: right">2,892&nbsp;</td>
+									<td style="text-align: right">2,684&nbsp;</td>
+									<td style="text-align: right">3,034&nbsp;</td>
+									<td style="text-align: right">3,079&nbsp;</td>
+									<td style="text-align: right">3,184&nbsp;</td>
+									<td style="text-align: right">3,227&nbsp;</td>
+									<td style="text-align: right" class="none">3,464&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">연유 &nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right" class="none">7&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">전지분유 &nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right" class="none">7&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">탈지분유 &nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">32&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right" class="none">34&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">조제분유 &nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right" class="none">14&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">어패류 &nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">1,974&nbsp;</td>
+									<td style="text-align: right">1,922&nbsp;</td>
+									<td style="text-align: right">2,103&nbsp;</td>
+									<td style="text-align: right">2,040&nbsp;</td>
+									<td style="text-align: right">1,898&nbsp;</td>
+									<td style="text-align: right">1,776&nbsp;</td>
+									<td style="text-align: right">1,806&nbsp;</td>
+									<td style="text-align: right">1,845&nbsp;</td>
+									<td style="text-align: right">1,893&nbsp;</td>
+									<td style="text-align: right">1,863&nbsp;</td>
+									<td style="text-align: right">2,112&nbsp;</td>
+									<td style="text-align: right">1,963&nbsp;</td>
+									<td style="text-align: right">1,861&nbsp;</td>
+									<td style="text-align: right" class="none">1,961&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="60">어류&nbsp;</td>							
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">1,348&nbsp;</td>
+									<td style="text-align: right">1,299&nbsp;</td>
+									<td style="text-align: right">1,354&nbsp;</td>
+									<td style="text-align: right">1,264&nbsp;</td>
+									<td style="text-align: right">1,181&nbsp;</td>
+									<td style="text-align: right">1,090&nbsp;</td>
+									<td style="text-align: right">1,120&nbsp;</td>
+									<td style="text-align: right">1,024&nbsp;</td>
+									<td style="text-align: right">1,082&nbsp;</td>
+									<td style="text-align: right">1,124&nbsp;</td>
+									<td style="text-align: right">1,213&nbsp;</td>
+									<td style="text-align: right">1,215&nbsp;</td>
+									<td style="text-align: right">1,069&nbsp;</td>
+									<td style="text-align: right" class="none">1,184&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">가자미 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right" class="none">9&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">넙치 &nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">49&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right" class="none">36&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">서대류 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">대구 &nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right" class="none">14&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">은대구 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">노가리 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">명태 &nbsp;</td>
+									<td style="text-align: right">153&nbsp;</td>
+									<td style="text-align: right">142&nbsp;</td>
+									<td style="text-align: right">128&nbsp;</td>
+									<td style="text-align: right">142&nbsp;</td>
+									<td style="text-align: right">130&nbsp;</td>
+									<td style="text-align: right">110&nbsp;</td>
+									<td style="text-align: right">119&nbsp;</td>
+									<td style="text-align: right">122&nbsp;</td>
+									<td style="text-align: right">105&nbsp;</td>
+									<td style="text-align: right">107&nbsp;</td>
+									<td style="text-align: right">104&nbsp;</td>
+									<td style="text-align: right">110&nbsp;</td>
+									<td style="text-align: right">130&nbsp;</td>
+									<td style="text-align: right" class="none">141&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">돔류 &nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right" class="none">11&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">병어 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right" class="none">2&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">민어 &nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right" class="none">13&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">조기 &nbsp;</td>
+									<td style="text-align: right">43&nbsp;</td>
+									<td style="text-align: right">41&nbsp;</td>
+									<td style="text-align: right">45&nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">45&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">41&nbsp;</td>
+									<td style="text-align: right">46&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right" class="none">27&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">강달이 &nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">성대류 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">갈치 &nbsp;</td>
+									<td style="text-align: right">72&nbsp;</td>
+									<td style="text-align: right">67&nbsp;</td>
+									<td style="text-align: right">75&nbsp;</td>
+									<td style="text-align: right">74&nbsp;</td>
+									<td style="text-align: right">72&nbsp;</td>
+									<td style="text-align: right">76&nbsp;</td>
+									<td style="text-align: right">55&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">49&nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right" class="none">49&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">도루묵 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right" class="none">5&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">농어 &nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right" class="none">4&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">눈볼대 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right" class="none">2&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">장어 &nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right" class="none">9&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">망둥이 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">매퉁이 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">양태 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">볼락 &nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right" class="none">16&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">양미리 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">숭어 &nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right" class="none">4&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">뱅어 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">복어 &nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right" class="none">4&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">멸치 &nbsp;</td>
+									<td style="text-align: right">186&nbsp;</td>
+									<td style="text-align: right">246&nbsp;</td>
+									<td style="text-align: right">265&nbsp;</td>
+									<td style="text-align: right">217&nbsp;</td>
+									<td style="text-align: right">248&nbsp;</td>
+									<td style="text-align: right">196&nbsp;</td>
+									<td style="text-align: right">244&nbsp;</td>
+									<td style="text-align: right">276&nbsp;</td>
+									<td style="text-align: right">201&nbsp;</td>
+									<td style="text-align: right">200&nbsp;</td>
+									<td style="text-align: right">210&nbsp;</td>
+									<td style="text-align: right">199&nbsp;</td>
+									<td style="text-align: right">131&nbsp;</td>
+									<td style="text-align: right" class="none">198&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">정어리 &nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right" class="none">11&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">전어 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right" class="none">5&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">청어 &nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right" class="none">19&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">밴댕이 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">고등어 &nbsp;</td>
+									<td style="text-align: right">107&nbsp;</td>
+									<td style="text-align: right">101&nbsp;</td>
+									<td style="text-align: right">88&nbsp;</td>
+									<td style="text-align: right">86&nbsp;</td>
+									<td style="text-align: right">96&nbsp;</td>
+									<td style="text-align: right">80&nbsp;</td>
+									<td style="text-align: right">76&nbsp;</td>
+									<td style="text-align: right">70&nbsp;</td>
+									<td style="text-align: right">62&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right">77&nbsp;</td>
+									<td style="text-align: right">82&nbsp;</td>
+									<td style="text-align: right">113&nbsp;</td>
+									<td style="text-align: right" class="none">95&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">전갱이 &nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right" class="none">10&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">삼치 &nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right" class="none">12&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">꽁치 &nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">49&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">48&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right" class="none">25&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">학꽁치 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">방어 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right" class="none">10&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">임연수어 &nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right" class="none">4&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">다랑어 &nbsp;</td>
+									<td style="text-align: right">148&nbsp;</td>
+									<td style="text-align: right">49&nbsp;</td>
+									<td style="text-align: right">62&nbsp;</td>
+									<td style="text-align: right">64&nbsp;</td>
+									<td style="text-align: right">46&nbsp;</td>
+									<td style="text-align: right">59&nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">65&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">80&nbsp;</td>
+									<td style="text-align: right">75&nbsp;</td>
+									<td style="text-align: right">62&nbsp;</td>
+									<td style="text-align: right">81&nbsp;</td>
+									<td style="text-align: right" class="none">80&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">새치류 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right" class="none">2&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">상어 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">가오리 &nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right" class="none">10&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">보리멸 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">쥐치 &nbsp;</td>
+									<td style="text-align: right">43&nbsp;</td>
+									<td style="text-align: right">41&nbsp;</td>
+									<td style="text-align: right">51&nbsp;</td>
+									<td style="text-align: right">54&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">32&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right" class="none">29&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">준치 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">아귀 &nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right" class="none">15&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">홍어 &nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right" class="none">7&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타해산어 &nbsp;</td>
+									<td style="text-align: right">277&nbsp;</td>
+									<td style="text-align: right">274&nbsp;</td>
+									<td style="text-align: right">302&nbsp;</td>
+									<td style="text-align: right">227&nbsp;</td>
+									<td style="text-align: right">176&nbsp;</td>
+									<td style="text-align: right">147&nbsp;</td>
+									<td style="text-align: right">208&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right">277&nbsp;</td>
+									<td style="text-align: right">268&nbsp;</td>
+									<td style="text-align: right">325&nbsp;</td>
+									<td style="text-align: right">337&nbsp;</td>
+									<td style="text-align: right">215&nbsp;</td>
+									<td style="text-align: right" class="none">253&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">송어류 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right" class="none">2&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">잉어 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">붕어 &nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">미꾸라지 &nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right" class="none">9&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">뱀장어 &nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right" class="none">12&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">연어 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right" class="none">17&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">쏘가리 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">가물치 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">메기 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right" class="none">3&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">향어 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타담수어 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right" class="none">3&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="32">패류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">969&nbsp;</td>
+									<td style="text-align: right">623&nbsp;</td>
+									<td style="text-align: right">749&nbsp;</td>
+									<td style="text-align: right">776&nbsp;</td>
+									<td style="text-align: right">717&nbsp;</td>
+									<td style="text-align: right">685&nbsp;</td>
+									<td style="text-align: right">686&nbsp;</td>
+									<td style="text-align: right">822&nbsp;</td>
+									<td style="text-align: right">811&nbsp;</td>
+									<td style="text-align: right">747&nbsp;</td>
+									<td style="text-align: right">898&nbsp;</td>
+									<td style="text-align: right">748&nbsp;</td>
+									<td style="text-align: right">792&nbsp;</td>
+									<td style="text-align: right" class="none">777&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">대하, 중하 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">새우 &nbsp;</td>
+									<td style="text-align: right">129&nbsp;</td>
+									<td style="text-align: right">139&nbsp;</td>
+									<td style="text-align: right">163&nbsp;</td>
+									<td style="text-align: right">180&nbsp;</td>
+									<td style="text-align: right">176&nbsp;</td>
+									<td style="text-align: right">162&nbsp;</td>
+									<td style="text-align: right">188&nbsp;</td>
+									<td style="text-align: right">198&nbsp;</td>
+									<td style="text-align: right">214&nbsp;</td>
+									<td style="text-align: right">209&nbsp;</td>
+									<td style="text-align: right">227&nbsp;</td>
+									<td style="text-align: right">215&nbsp;</td>
+									<td style="text-align: right">237&nbsp;</td>
+									<td style="text-align: right" class="none">266&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">꽃게 &nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right" class="none">8&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타게 &nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">32&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right" class="none">5&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">전복 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right" class="none">7&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">소라고동 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">굴 &nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">92&nbsp;</td>
+									<td style="text-align: right">127&nbsp;</td>
+									<td style="text-align: right">67&nbsp;</td>
+									<td style="text-align: right">111&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right" class="none">46&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">바지락 &nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right" class="none">18&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">백합 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right" class="none">2&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">가무락 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">동죽 &nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">피조개 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">새조개 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">골뱅이 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right" class="none">2&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">개량조개 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">홍합 &nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right" class="none">22&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">꼬막 &nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">키조개 &nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right" class="none">3&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">맛조개 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">재치조개 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">가리비 &nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right" class="none">14&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타패류 &nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right" class="none">12&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">오징어 &nbsp;</td>
+									<td style="text-align: right">196&nbsp;</td>
+									<td style="text-align: right">197&nbsp;</td>
+									<td style="text-align: right">225&nbsp;</td>
+									<td style="text-align: right">223&nbsp;</td>
+									<td style="text-align: right">204&nbsp;</td>
+									<td style="text-align: right">195&nbsp;</td>
+									<td style="text-align: right">170&nbsp;</td>
+									<td style="text-align: right">178&nbsp;</td>
+									<td style="text-align: right">227&nbsp;</td>
+									<td style="text-align: right">224&nbsp;</td>
+									<td style="text-align: right">272&nbsp;</td>
+									<td style="text-align: right">235&nbsp;</td>
+									<td style="text-align: right">240&nbsp;</td>
+									<td style="text-align: right" class="none">195&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">문어 &nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right" class="none">40&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">주꾸미 &nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right" class="none">29&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">낙지 &nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">43&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">36&nbsp;</td>
+									<td style="text-align: right" class="none">31&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타연체동물 &nbsp;</td>
+									<td style="text-align: right">94&nbsp;</td>
+									<td style="text-align: right">95&nbsp;</td>
+									<td style="text-align: right">120&nbsp;</td>
+									<td style="text-align: right">114&nbsp;</td>
+									<td style="text-align: right">119&nbsp;</td>
+									<td style="text-align: right">110&nbsp;</td>
+									<td style="text-align: right">118&nbsp;</td>
+									<td style="text-align: right">144&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right">43&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">35&nbsp;</td>
+									<td style="text-align: right" class="none">38&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">해삼 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right" class="none">5&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">성게 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">우렁쉥이 &nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right" class="none">10&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타수산동물 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right" class="none">4&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="9">해조류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">377&nbsp;</td>
+									<td style="text-align: right">461&nbsp;</td>
+									<td style="text-align: right">629&nbsp;</td>
+									<td style="text-align: right">696&nbsp;</td>
+									<td style="text-align: right">770&nbsp;</td>
+									<td style="text-align: right">709&nbsp;</td>
+									<td style="text-align: right">725&nbsp;</td>
+									<td style="text-align: right">783&nbsp;</td>
+									<td style="text-align: right">794&nbsp;</td>
+									<td style="text-align: right">874&nbsp;</td>
+									<td style="text-align: right">857&nbsp;</td>
+									<td style="text-align: right">143&nbsp;</td>
+									<td style="text-align: right">159&nbsp;</td>
+									<td style="text-align: right" class="none">223&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">다시마 &nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">100&nbsp;</td>
+									<td style="text-align: right">189&nbsp;</td>
+									<td style="text-align: right">235&nbsp;</td>
+									<td style="text-align: right">269&nbsp;</td>
+									<td style="text-align: right">288&nbsp;</td>
+									<td style="text-align: right">226&nbsp;</td>
+									<td style="text-align: right">228&nbsp;</td>
+									<td style="text-align: right">285&nbsp;</td>
+									<td style="text-align: right">351&nbsp;</td>
+									<td style="text-align: right">352&nbsp;</td>
+									<td style="text-align: right">43&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right" class="none">53&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">미역 &nbsp;</td>
+									<td style="text-align: right">187&nbsp;</td>
+									<td style="text-align: right">215&nbsp;</td>
+									<td style="text-align: right">280&nbsp;</td>
+									<td style="text-align: right">297&nbsp;</td>
+									<td style="text-align: right">329&nbsp;</td>
+									<td style="text-align: right">275&nbsp;</td>
+									<td style="text-align: right">337&nbsp;</td>
+									<td style="text-align: right">330&nbsp;</td>
+									<td style="text-align: right">292&nbsp;</td>
+									<td style="text-align: right">262&nbsp;</td>
+									<td style="text-align: right">239&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">53&nbsp;</td>
+									<td style="text-align: right" class="none">72&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">김 &nbsp;</td>
+									<td style="text-align: right">152&nbsp;</td>
+									<td style="text-align: right">117&nbsp;</td>
+									<td style="text-align: right">137&nbsp;</td>
+									<td style="text-align: right">139&nbsp;</td>
+									<td style="text-align: right">139&nbsp;</td>
+									<td style="text-align: right">114&nbsp;</td>
+									<td style="text-align: right">133&nbsp;</td>
+									<td style="text-align: right">188&nbsp;</td>
+									<td style="text-align: right">189&nbsp;</td>
+									<td style="text-align: right">234&nbsp;</td>
+									<td style="text-align: right">230&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right" class="none">32&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">톳 &nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right" class="none">47&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">파래 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">우뭇가사리 &nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">청각 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right" class="none">4&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타해조류 &nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right" class="none">14&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="18">유지류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">850&nbsp;</td>
+									<td style="text-align: right">901&nbsp;</td>
+									<td style="text-align: right">872&nbsp;</td>
+									<td style="text-align: right">882&nbsp;</td>
+									<td style="text-align: right">904&nbsp;</td>
+									<td style="text-align: right">931&nbsp;</td>
+									<td style="text-align: right">992&nbsp;</td>
+									<td style="text-align: right">1,049&nbsp;</td>
+									<td style="text-align: right">1,109&nbsp;</td>
+									<td style="text-align: right">913&nbsp;</td>
+									<td style="text-align: right">1,037&nbsp;</td>
+									<td style="text-align: right">1,024&nbsp;</td>
+									<td style="text-align: right">1,084&nbsp;</td>
+									<td style="text-align: right" class="none">1,177&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">(식물성) &nbsp;</td>
+									<td style="text-align: right">837&nbsp;</td>
+									<td style="text-align: right">881&nbsp;</td>
+									<td style="text-align: right">854&nbsp;</td>
+									<td style="text-align: right">866&nbsp;</td>
+									<td style="text-align: right">885&nbsp;</td>
+									<td style="text-align: right">907&nbsp;</td>
+									<td style="text-align: right">972&nbsp;</td>
+									<td style="text-align: right">1,034&nbsp;</td>
+									<td style="text-align: right">1,087&nbsp;</td>
+									<td style="text-align: right">899&nbsp;</td>
+									<td style="text-align: right">1,021&nbsp;</td>
+									<td style="text-align: right">1,012&nbsp;</td>
+									<td style="text-align: right">1,049&nbsp;</td>
+									<td style="text-align: right" class="none">1,162&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">콩기름 &nbsp;</td>
+									<td style="text-align: right">403&nbsp;</td>
+									<td style="text-align: right">420&nbsp;</td>
+									<td style="text-align: right">423&nbsp;</td>
+									<td style="text-align: right">465&nbsp;</td>
+									<td style="text-align: right">443&nbsp;</td>
+									<td style="text-align: right">402&nbsp;</td>
+									<td style="text-align: right">406&nbsp;</td>
+									<td style="text-align: right">413&nbsp;</td>
+									<td style="text-align: right">450&nbsp;</td>
+									<td style="text-align: right">273&nbsp;</td>
+									<td style="text-align: right">255&nbsp;</td>
+									<td style="text-align: right">243&nbsp;</td>
+									<td style="text-align: right">236&nbsp;</td>
+									<td style="text-align: right" class="none">297&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">참기름 &nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">27&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">28&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">30&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right" class="none">29&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">들기름 &nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right" class="none">18&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">유채유 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">47&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right">68&nbsp;</td>
+									<td style="text-align: right">107&nbsp;</td>
+									<td style="text-align: right">93&nbsp;</td>
+									<td style="text-align: right">67&nbsp;</td>
+									<td style="text-align: right">99&nbsp;</td>
+									<td style="text-align: right">97&nbsp;</td>
+									<td style="text-align: right">122&nbsp;</td>
+									<td style="text-align: right" class="none">136&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">미강유 &nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right" class="none">12&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">면실유 &nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">3&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">고추씨유 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">팜유 &nbsp;</td>
+									<td style="text-align: right">213&nbsp;</td>
+									<td style="text-align: right">232&nbsp;</td>
+									<td style="text-align: right">222&nbsp;</td>
+									<td style="text-align: right">187&nbsp;</td>
+									<td style="text-align: right">197&nbsp;</td>
+									<td style="text-align: right">250&nbsp;</td>
+									<td style="text-align: right">277&nbsp;</td>
+									<td style="text-align: right">288&nbsp;</td>
+									<td style="text-align: right">320&nbsp;</td>
+									<td style="text-align: right">330&nbsp;</td>
+									<td style="text-align: right">429&nbsp;</td>
+									<td style="text-align: right">443&nbsp;</td>
+									<td style="text-align: right">466&nbsp;</td>
+									<td style="text-align: right" class="none">500&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">야자유 &nbsp;</td>
+									<td style="text-align: right">51&nbsp;</td>
+									<td style="text-align: right">53&nbsp;</td>
+									<td style="text-align: right">55&nbsp;</td>
+									<td style="text-align: right">57&nbsp;</td>
+									<td style="text-align: right">59&nbsp;</td>
+									<td style="text-align: right">57&nbsp;</td>
+									<td style="text-align: right">64&nbsp;</td>
+									<td style="text-align: right">58&nbsp;</td>
+									<td style="text-align: right">59&nbsp;</td>
+									<td style="text-align: right">60&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right">47&nbsp;</td>
+									<td style="text-align: right">40&nbsp;</td>
+									<td style="text-align: right" class="none">47&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">옥배유 &nbsp;</td>
+									<td style="text-align: right">65&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right">51&nbsp;</td>
+									<td style="text-align: right">37&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">45&nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right">42&nbsp;</td>
+									<td style="text-align: right">39&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right" class="none">35&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타 &nbsp;</td>
+									<td style="text-align: right">44&nbsp;</td>
+									<td style="text-align: right">57&nbsp;</td>
+									<td style="text-align: right">45&nbsp;</td>
+									<td style="text-align: right">47&nbsp;</td>
+									<td style="text-align: right">45&nbsp;</td>
+									<td style="text-align: right">49&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right">60&nbsp;</td>
+									<td style="text-align: right">60&nbsp;</td>
+									<td style="text-align: right">71&nbsp;</td>
+									<td style="text-align: right">83&nbsp;</td>
+									<td style="text-align: right">85&nbsp;</td>
+									<td style="text-align: right">84&nbsp;</td>
+									<td style="text-align: right" class="none">88&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">(동물성) &nbsp;</td>
+									<td style="text-align: right">13&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">18&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">14&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">12&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right" class="none">14&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">우지 &nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">6&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">5&nbsp;</td>
+									<td style="text-align: right" class="none">6&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">돈지 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">어유 &nbsp;</td>
+									<td style="text-align: right">4&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">7&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">15&nbsp;</td>
+									<td style="text-align: right">10&nbsp;</td>
+									<td style="text-align: right">17&nbsp;</td>
+									<td style="text-align: right">9&nbsp;</td>
+									<td style="text-align: right">11&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">29&nbsp;</td>
+									<td style="text-align: right" class="none">8&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타 &nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">–&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">-&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right">0&nbsp;</td>
+									<td style="text-align: right" class="none">0&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center" rowspan="9">주류&nbsp;</td>
+									<td style="text-align: center">소계 &nbsp;</td>
+									<td style="text-align: right">3,437&nbsp;</td>
+									<td style="text-align: right">3,367&nbsp;</td>
+									<td style="text-align: right">3,374&nbsp;</td>
+									<td style="text-align: right">3,589&nbsp;</td>
+									<td style="text-align: right">3,705&nbsp;</td>
+									<td style="text-align: right">3,318&nbsp;</td>
+									<td style="text-align: right">3,680&nbsp;</td>
+									<td style="text-align: right">4,016&nbsp;</td>
+									<td style="text-align: right">4,147&nbsp;</td>
+									<td style="text-align: right">4,149&nbsp;</td>
+									<td style="text-align: right">4,470&nbsp;</td>
+									<td style="text-align: right">5,014&nbsp;</td>
+									<td style="text-align: right">3,606&nbsp;</td>
+									<td style="text-align: right" class="none">3,553&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">탁주 &nbsp;</td>
+									<td style="text-align: right">161&nbsp;</td>
+									<td style="text-align: right">170&nbsp;</td>
+									<td style="text-align: right">170&nbsp;</td>
+									<td style="text-align: right">171&nbsp;</td>
+									<td style="text-align: right">171&nbsp;</td>
+									<td style="text-align: right">178&nbsp;</td>
+									<td style="text-align: right">403&nbsp;</td>
+									<td style="text-align: right">459&nbsp;</td>
+									<td style="text-align: right">463&nbsp;</td>
+									<td style="text-align: right">432&nbsp;</td>
+									<td style="text-align: right">498&nbsp;</td>
+									<td style="text-align: right">407&nbsp;</td>
+									<td style="text-align: right">390&nbsp;</td>
+									<td style="text-align: right" class="none">401&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">소주 &nbsp;</td>
+									<td style="text-align: right">1,135&nbsp;</td>
+									<td style="text-align: right">1,128&nbsp;</td>
+									<td style="text-align: right">1,173&nbsp;</td>
+									<td style="text-align: right">1,178&nbsp;</td>
+									<td style="text-align: right">1,210&nbsp;</td>
+									<td style="text-align: right">1,076&nbsp;</td>
+									<td style="text-align: right">1,094&nbsp;</td>
+									<td style="text-align: right">1,174&nbsp;</td>
+									<td style="text-align: right">1,163&nbsp;</td>
+									<td style="text-align: right">1,162&nbsp;</td>
+									<td style="text-align: right">1,182&nbsp;</td>
+									<td style="text-align: right">1,639&nbsp;</td>
+									<td style="text-align: right">875&nbsp;</td>
+									<td style="text-align: right" class="none">889&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">맥주 &nbsp;</td>
+									<td style="text-align: right">1,969&nbsp;</td>
+									<td style="text-align: right">1,923&nbsp;</td>
+									<td style="text-align: right">1,877&nbsp;</td>
+									<td style="text-align: right">2,022&nbsp;</td>
+									<td style="text-align: right">2,089&nbsp;</td>
+									<td style="text-align: right">1,878&nbsp;</td>
+									<td style="text-align: right">1,884&nbsp;</td>
+									<td style="text-align: right">2,025&nbsp;</td>
+									<td style="text-align: right">2,139&nbsp;</td>
+									<td style="text-align: right">2,154&nbsp;</td>
+									<td style="text-align: right">2,524&nbsp;</td>
+									<td style="text-align: right">2,234&nbsp;</td>
+									<td style="text-align: right">2,065&nbsp;</td>
+									<td style="text-align: right" class="none">1,979&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">기타 &nbsp;</td>
+									<td style="text-align: right">70&nbsp;</td>
+									<td style="text-align: right">51&nbsp;</td>
+									<td style="text-align: right">54&nbsp;</td>
+									<td style="text-align: right">106&nbsp;</td>
+									<td style="text-align: right">130&nbsp;</td>
+									<td style="text-align: right">88&nbsp;</td>
+									<td style="text-align: right">203&nbsp;</td>
+									<td style="text-align: right">264&nbsp;</td>
+									<td style="text-align: right">288&nbsp;</td>
+									<td style="text-align: right">303&nbsp;</td>
+									<td style="text-align: right">163&nbsp;</td>
+									<td style="text-align: right">85&nbsp;</td>
+									<td style="text-align: right">181&nbsp;</td>
+									<td style="text-align: right" class="none">193&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">청주 &nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">20&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">22&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">25&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">94&nbsp;</td>
+									<td style="text-align: right">23&nbsp;</td>
+									<td style="text-align: right" class="none">25&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">과실주 &nbsp;</td>
+									<td style="text-align: right">46&nbsp;</td>
+									<td style="text-align: right">38&nbsp;</td>
+									<td style="text-align: right">46&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right">47&nbsp;</td>
+									<td style="text-align: right">47&nbsp;</td>
+									<td style="text-align: right">48&nbsp;</td>
+									<td style="text-align: right">52&nbsp;</td>
+									<td style="text-align: right">58&nbsp;</td>
+									<td style="text-align: right">302&nbsp;</td>
+									<td style="text-align: right">56&nbsp;</td>
+									<td style="text-align: right" class="none">51&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">위스키 &nbsp;</td>
+									<td style="text-align: right">31&nbsp;</td>
+									<td style="text-align: right">33&nbsp;</td>
+									<td style="text-align: right">32&nbsp;</td>
+									<td style="text-align: right">34&nbsp;</td>
+									<td style="text-align: right">32&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">26&nbsp;</td>
+									<td style="text-align: right">24&nbsp;</td>
+									<td style="text-align: right">21&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">19&nbsp;</td>
+									<td style="text-align: right">245&nbsp;</td>
+									<td style="text-align: right">16&nbsp;</td>
+									<td style="text-align: right" class="none">15&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="text-align: center">브랜디 &nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">2&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right">8&nbsp;</td>
+									<td style="text-align: right">1&nbsp;</td>
+									<td style="text-align: right" class="none">1&nbsp;</td>
+								</tr>
+								<tr>
+								</tr>
+
+							</tbody>
+						</table>
+						<p class="desc">자료: 한국농촌경제연구원, 「식품수급표(2016년 기준)」</p>
+					</div>
+				
+    </div>
+</body> 
+</html>
